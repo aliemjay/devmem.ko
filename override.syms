@@ -1,0 +1,10 @@
+devmem_is_allowed
+kmsg_fops
+phys_mem_access_prot
+shmem_get_unmapped_area
+shmem_zero_setup
+splice_from_pipe
+unxlate_dev_mem_ptr
+valid_mmap_phys_addr_range
+valid_phys_addr_range
+xlate_dev_mem_ptr
